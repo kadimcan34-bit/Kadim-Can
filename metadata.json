@@ -1,0 +1,7 @@
+{
+  "name": "Eğitimci SMART Hedef Asistanı",
+  "description": "Öğretmenler için öğrencilerine yönelik pedagojik SMART hedefler (Belirli, Ölçülebilir, Ulaşılabilir, İlgili, Zamana Dayalı) oluşturan ve yapay zeka destekli rehberlik sunan bir uygulama.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
